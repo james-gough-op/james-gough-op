@@ -1,4 +1,4 @@
-Staff engineer, sixteen years in. I work on AI developer experience: the internal
+Staff engineer, 25 years in. I work on AI developer experience: the internal
 platforms engineers build on, the standards that govern them, and the measurement
 that says whether any of it pays for itself.
 
